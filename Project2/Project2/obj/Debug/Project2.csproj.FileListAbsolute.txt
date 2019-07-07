@@ -1,0 +1,7 @@
+F:\Nazarie\Project2\Project2\Project2\bin\Debug\Project2.exe.config
+F:\Nazarie\Project2\Project2\Project2\bin\Debug\Project2.exe
+F:\Nazarie\Project2\Project2\Project2\bin\Debug\Project2.pdb
+F:\Nazarie\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+F:\Nazarie\Project2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+F:\Nazarie\Project2\Project2\Project2\obj\Debug\Project2.exe
+F:\Nazarie\Project2\Project2\Project2\obj\Debug\Project2.pdb
